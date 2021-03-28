@@ -2,13 +2,9 @@ const express = require("express");
 const routes = express.Router();
 const service = require("./service")
 
-routes.get("/hellow", (req, res) => {
-    return res.send("Hello world");
-  });
-
-  routes.post("/destinos", (req, res) => {
-
-    return res.send("Hello world");
+  routes.get("/destinos", (req, res) => {
+      var pref = req.query['preferencia']
+    return res.json(service.destinations(pref))
   });
 
   module.exports = routes;

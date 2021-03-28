@@ -14,7 +14,6 @@ module.exports = {
         return snowJson;
       case "montanha":
         return snowJson;
-
       default:
         break;
     }
