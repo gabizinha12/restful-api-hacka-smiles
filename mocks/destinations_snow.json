@@ -1,0 +1,81 @@
+{
+    "destinos": [
+        {
+            "titulo": "Praia do bom fim",
+            "valor_reais": "R$ 1.200,00",
+            "valor_milhas": "R$ 10.000 milhas",
+            "imagem": 0,
+            "taxa_vac_atual": "15%",
+            "taxa_na_data": "80%",
+            "pacotes": [
+                {
+                    "titulo": "Voo + Hospedagem no Hotel Sheraton",
+                    "imagem": 5,
+                    "tipo_viagem": 1,
+                    "descricao": "Breve descricao",
+                    "valor_reais": 600.00,
+                    "valor_milhas": 15000.00,
+                    "stars": 4.5
+                }
+            ],
+            "requerimentos": [
+                {
+                    "descricao": "Visto de entrada"
+                },
+                {
+                    "descricao": "Passaporte"
+                },
+                {
+                    "descricao": "Mascara N94 ou afim"
+                },
+                {
+                    "descricao": "Vacina contra convid-19"
+                }
+            ]
+        },
+        {
+            "titulo": "Sitio 2",
+            "valor_reais": "R$ 5.200,00",
+            "valor_milhas": "R$ 30.000 milhas",
+            "imagem": 4,
+            "taxa_vac_atual": "5%",
+            "taxa_na_data": "20%",
+            "pacotes": [
+                {
+                    "titulo": "Voo + Hospedagem no Hotel Sheraton",
+                    "imagem": 5,
+                    "tipo_viagem": 1,
+                    "descricao": "Breve descricao",
+                    "valor_reais": 600.00,
+                    "valor_milhas": 15000.00,
+                    "stars": 4.5
+                }
+            ],
+            "requerimentos": [
+                {
+                    "descricao": "Visto de entrada"
+                }
+            ]
+        },
+        {
+            "titulo": "Sitio 3",
+            "valor_reais": "R$ 700,00",
+            "valor_milhas": "R$ 5.000 milhas",
+            "imagem": 2,
+            "taxa_vac_atual": "50%",
+            "taxa_na_data": "100%",
+            "pacotes": [
+                {
+                    "titulo": "Voo + Hospedagem no Hotel Sheraton",
+                    "imagem": 5,
+                    "tipo_viagem": 1,
+                    "descricao": "Breve descricao",
+                    "valor_reais": 600.00,
+                    "valor_milhas": 15000.00,
+                    "stars": 4.5
+                }
+            ],
+            "requerimentos": []
+        }
+    ]
+}
