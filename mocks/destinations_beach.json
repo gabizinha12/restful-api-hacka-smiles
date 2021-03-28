@@ -1,0 +1,64 @@
+{
+    "destinos": [
+        {
+            "titulo": "Porto de Galinhas - Ipojuca",
+            "valor_reais": "R$ 2.896",
+            "valor_milhas": "R$ 86.880 milhas",
+            "imagem": 0,
+            "taxa_vac_atual": "15%",
+            "taxa_na_data": "80%",
+            "pacotes": [
+                {
+                    "titulo": "Voo + Pousada Morada do sol",
+                    "imagem": 5,
+                    "tipo_viagem": 1,
+                    "descricao": "Breve descricao",
+                    "valor_reais": 2.604,
+                    "valor_milhas": 86.880,
+                    "stars": 4.5
+                }
+            ],
+            "requerimentos": [
+                {
+                    "descricao": "Visto de entrada"
+                },
+                {
+                    "descricao": "Taxa de preservação"
+                },
+                {
+                    "descricao": "Mascara N94 ou afim"
+                },
+                {
+                    "descricao": "Vacina contra covid-19"
+                }
+            ]
+        },
+        {
+            "titulo": "Miami",
+            "valor_reais": "R$ 5.024",
+            "valor_milhas": "R$ 150.720 milhas",
+            "imagem": 4,
+            "taxa_vac_atual": "5%",
+            "taxa_na_data": "20%",
+            "pacotes": [
+                {
+                    "titulo": "Voo + Hospedagem no Element Miami Doral",
+                    "imagem": "Miami",
+                    "tipo_viagem": 1,
+                    "descricao": "Breve descricao",
+                    "valor_reais": 5.024,
+                    "valor_milhas": 150.720,
+                    "stars": 4.5
+                }
+            ],
+            "requerimentos": [
+                {
+                    "descricao": "Visto de entrada"
+                },
+                  {
+                    "descricao": "Passaporte"
+                }
+            ]
+        }
+    ]
+}

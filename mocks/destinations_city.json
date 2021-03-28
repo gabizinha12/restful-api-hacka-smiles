@@ -1,0 +1,63 @@
+{
+    "destinos": [
+        {
+            "titulo": "Rio de Janeiro",
+            "valor_reais": "R$ 470",
+            "valor_milhas": "R$ 14.100 milhas",
+            "imagem": 0,
+            "taxa_vac_atual": "15%",
+            "taxa_na_data": "80%",
+            "pacotes": [
+                {
+                    "titulo": "Voo + Hospedagem no Royalty Rio Hotel",
+                    "imagem": "Corcovado",
+                    "tipo_viagem": 1,
+                    "descricao": "Breve descricao",
+                    "valor_reais": 470.00,
+                    "valor_milhas": 14.100,
+                    "stars": 4.5
+                }
+            ],
+            "requerimentos": [
+                {
+                    "descricao": "Visto de entrada"
+                },
+                {
+                    "descricao": "Mascara N94 ou afim"
+                },
+                {
+                    "descricao": "Vacina contra covid-19"
+                }
+            ]
+        },
+        {
+            "titulo": "Toronto",
+            "valor_reais": "R$ 5.661",
+            "valor_milhas": "R$ 169.830 milhas",
+            "imagem": 4,
+            "taxa_vac_atual": "5%",
+            "taxa_na_data": "20%",
+            "pacotes": [
+                {
+                    "titulo": "Voo + Hospedagem no Crowne Plaza Toronto Airport",
+                    "imagem": "Toronto",
+                    "tipo_viagem": 1,
+                    "descricao": "Breve descricao",
+                    "valor_reais":  5.661,
+                    "valor_milhas": 169.830,
+                    "stars": 4.5
+                }
+            ],
+            "requerimentos": [
+                {
+                    "descricao": "Visto de entrada"
+                     
+                },
+                 {
+                    "descricao": "Passaporte"
+                     
+                }
+            ]
+        }
+    ]
+}
