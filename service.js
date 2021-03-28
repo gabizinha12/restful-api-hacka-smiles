@@ -20,7 +20,7 @@ module.exports = {
         return montainsJson;
 
       default:
-        snowJson;
+        return snowJson;
     }
   },
 };
