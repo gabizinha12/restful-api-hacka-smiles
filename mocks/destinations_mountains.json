@@ -4,7 +4,7 @@
             "titulo": "Suíça",
             "valor_reais": "R$ 6.251",
             "valor_milhas": "R$ 10.000 milhas",
-            "imagem": 0,
+            "imagem": "Suíça",
             "taxa_vac_atual": "15%",
             "taxa_na_data": "80%",
             "pacotes": [
@@ -13,8 +13,8 @@
                     "imagem": "Zurique",
                     "tipo_viagem": 1,
                     "descricao": "Breve descricao",
-                    "valor_reais": 6.251,
-                    "valor_milhas": 15000.00,
+                    "valor_reais": "6.251",
+                    "valor_milhas": "15000.00",
                     "stars": 4.5
                 }
             ],
@@ -35,9 +35,9 @@
         },
         {
             "titulo": "Bariloche",
-            "valor_reais": "R$ 2.974",
-            "valor_milhas": "R$ 89.220 milhas",
-            "imagem": 4,
+            "valor_reais": "R$ 2,974",
+            "valor_milhas": "R$ 89,220 milhas",
+            "imagem": "Bariloche",
             "taxa_vac_atual": "5%",
             "taxa_na_data": "20%",
             "pacotes": [
@@ -46,8 +46,8 @@
                     "imagem": "Bariloche",
                     "tipo_viagem": 1,
                     "descricao": "Breve descricao",
-                    "valor_reais": 2.974,
-                    "valor_milhas": 89.220,
+                    "valor_reais": "R$ 2,974",
+                    "valor_milhas": "89.220",
                     "stars": 4.5
                 }
             ],

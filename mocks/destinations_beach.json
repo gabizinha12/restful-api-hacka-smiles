@@ -2,20 +2,20 @@
     "destinos": [
         {
             "titulo": "Porto de Galinhas - Ipojuca",
-            "valor_reais": "R$ 2.896",
-            "valor_milhas": "R$ 86.880 milhas",
-            "imagem": 0,
+            "valor_reais": "R$ 2,896",
+            "valor_milhas": "R$ 86,880 milhas",
+            "imagem": "Porto de Galinhas",
             "taxa_vac_atual": "15%",
             "taxa_na_data": "80%",
             "pacotes": [
                 {
                     "titulo": "Voo + Pousada Morada do sol",
-                    "imagem": 5,
+                    "imagem": "Porto de Galinhas",
                     "tipo_viagem": 1,
                     "descricao": "Breve descricao",
-                    "valor_reais": 2.604,
-                    "valor_milhas": 86.880,
-                    "stars": 4.5
+                    "valor_reais": "5.024",
+                    "valor_milhas": "86.880",
+                    "stars": "4.5"
                 }
             ],
             "requerimentos": [
@@ -35,9 +35,9 @@
         },
         {
             "titulo": "Miami",
-            "valor_reais": "R$ 5.024",
+            "valor_reais": "R$ 5,024",
             "valor_milhas": "R$ 150.720 milhas",
-            "imagem": 4,
+            "imagem": "Miami",
             "taxa_vac_atual": "5%",
             "taxa_na_data": "20%",
             "pacotes": [
@@ -46,8 +46,8 @@
                     "imagem": "Miami",
                     "tipo_viagem": 1,
                     "descricao": "Breve descricao",
-                    "valor_reais": 5.024,
-                    "valor_milhas": 150.720,
+                    "valor_reais": "5.024",
+                    "valor_milhas": "150.720",
                     "stars": 4.5
                 }
             ],

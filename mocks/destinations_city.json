@@ -13,8 +13,8 @@
                     "imagem": "Corcovado",
                     "tipo_viagem": 1,
                     "descricao": "Breve descricao",
-                    "valor_reais": 470.00,
-                    "valor_milhas": 14.100,
+                    "valor_reais": "470.00",
+                    "valor_milhas": "14.100",
                     "stars": 4.5
                 }
             ],
@@ -43,8 +43,8 @@
                     "imagem": "Toronto",
                     "tipo_viagem": 1,
                     "descricao": "Breve descricao",
-                    "valor_reais":  5.661,
-                    "valor_milhas": 169.830,
+                    "valor_reais":  "5.661",
+                    "valor_milhas": "169.830",
                     "stars": 4.5
                 }
             ],

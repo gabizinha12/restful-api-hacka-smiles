@@ -4,7 +4,7 @@
             "titulo": "Nova Iorque",
             "valor_reais": "R$ 1999",
             "valor_milhas": "R$ 59.970 milhas",
-            "imagem": 0,
+            "imagem": "Nova Iorque",
             "taxa_vac_atual": "15%",
             "taxa_na_data": "80%",
             "pacotes": [
@@ -13,8 +13,8 @@
                     "imagem": "Nova Iorque",
                     "tipo_viagem": 1,
                     "descricao": "Breve descricao",
-                    "valor_reais":1999,
-                    "valor_milhas": 59.970,
+                    "valor_reais": "1999",
+                    "valor_milhas": "59.970",
                     "stars": 4.5
                 }
             ],
@@ -46,8 +46,8 @@
                     "imagem": "Toronto",
                     "tipo_viagem": 1,
                     "descricao": "Breve descricao",
-                    "valor_reais":  5.661,
-                    "valor_milhas": 169.830,
+                    "valor_reais":  "R$ 5.661",
+                    "valor_milhas": "169.830",
                     "stars": 4.5
                 }
             ],
