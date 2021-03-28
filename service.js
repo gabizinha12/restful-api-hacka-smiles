@@ -1,5 +1,8 @@
 
 const snowJson = require('./mocks/destinations_snow.json')
+const beachJson = require('destinations_beach.json')
+const cityJson = require('destinations_city.json')
+const montainsJson = require('destinations_mountains.json')
 
 module.exports = {
   destinations(preference) {
@@ -8,14 +11,16 @@ module.exports = {
         return snowJson;
 
       case "praia":
-        return snowJson;
+        return beachJson;
 
       case "cidade":
-        return snowJson;
+        return cityJson;
+
       case "montanha":
-        return snowJson;
+        return montainsJson;
+
       default:
-        break;
+        snowJson;
     }
   },
 };
