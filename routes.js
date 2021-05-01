@@ -1,9 +1,9 @@
-const express = require("express");
-const routes = express.Router();
+const { Router } = require("express");
+const routes = Router();
 const service = require("./service")
 
   routes.get("/destinos", (req, res) => {
-      var pref = req.query['preferencia']
+      const pref = req.query.place
     return res.json(service.destinations(pref))
   });
 
